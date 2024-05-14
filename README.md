@@ -1,2 +1,2 @@
 # I2C-Communication
-This repository hosts code examples, tutorials, and resources for implementing I2C (Inter-Integrated Circuit) communication protocol in various hardware platforms and programming languages.
+"I2C Communication Repository: This repository hosts code examples, tutorials, and resources for implementing I2C (Inter-Integrated Circuit) communication protocol in various hardware platforms and programming languages. Whether you're a beginner looking to understand the basics of I2C or an experienced developer seeking advanced techniques, you'll find comprehensive documentation and sample code to facilitate seamless data exchange between I2C-compatible devices."
